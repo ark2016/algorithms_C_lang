@@ -2,3 +2,5 @@
 algorithms and data structures C lang
 
 https://bmstu-iu9.github.io/ads/
+
+Условия задач продублированны в файлах
